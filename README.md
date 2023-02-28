@@ -1,2 +1,2 @@
 # Webscrapping
-Webscrapping with python libraries and html weblinks
+Webscrapping with Python libraries and HTML weblinks
